@@ -1,6 +1,6 @@
 # Ascon-128
 
-This is a straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm that has been.
+This is a straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm.
 
 Ascon has been selected as one of the ten finalists of [NIST Lightweight Cryptography competition](https://csrc.nist.gov/projects/lightweight-cryptography/finalists).
 
