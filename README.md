@@ -1,4 +1,4 @@
-# Ascon-128
+# Python implementation of Ascon-128
 
 This is a straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm.
 
