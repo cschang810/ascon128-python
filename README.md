@@ -1,6 +1,6 @@
 # Ascon-128
 
-A straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm.
+This is a straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm.
 
 ## Run
 
@@ -9,4 +9,8 @@ python3 ascon128.py
 ```
 
 ## More Details
-[https://ascon.iaik.tugraz.at/](https://ascon.iaik.tugraz.at/)
+[Ascon website](https://ascon.iaik.tugraz.at/)
+
+[Ascon v1.2 specification](https://ascon.iaik.tugraz.at/specification.html)
+
+[A more thorough implementation](https://github.com/meichlseder/pyascon)
