@@ -1,6 +1,6 @@
-# Python 
+# Ascon-128
 
-A straightforward Python implementation of Ascon128, a lightweight AEAD algorithm.
+A straightforward Python implementation of Ascon-128, a lightweight AEAD algorithm.
 
 ## Run
 
